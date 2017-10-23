@@ -1,0 +1,7 @@
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\bin\Debug\suurem_vordne_vaiksem.exe.config
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\bin\Debug\suurem_vordne_vaiksem.exe
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\bin\Debug\suurem_vordne_vaiksem.pdb
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\obj\Debug\suurem_vordne_vaiksem.csprojResolveAssemblyReference.cache
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\obj\Debug\suurem_vordne_vaiksem.csproj.CoreCompileInputs.cache
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\obj\Debug\suurem_vordne_vaiksem.exe
+C:\Users\Kummiliim\source\repos\hello_world\suurem_vordne_vaiksem\obj\Debug\suurem_vordne_vaiksem.pdb

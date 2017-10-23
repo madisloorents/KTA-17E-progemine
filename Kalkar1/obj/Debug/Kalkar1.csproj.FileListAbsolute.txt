@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\obj\Debug\Kalkar1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\bin\Debug\Kalkar1.exe.config
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\bin\Debug\Kalkar1.exe
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\bin\Debug\Kalkar1.pdb
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\obj\Debug\Kalkar1.exe
+C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Kalkar1\obj\Debug\Kalkar1.pdb
