@@ -1,0 +1,6 @@
+C:\Users\Kummiliim\source\repos\hello_world\random number\bin\Debug\random number.exe.config
+C:\Users\Kummiliim\source\repos\hello_world\random number\bin\Debug\random number.exe
+C:\Users\Kummiliim\source\repos\hello_world\random number\bin\Debug\random number.pdb
+C:\Users\Kummiliim\source\repos\hello_world\random number\obj\Debug\random number.csproj.CoreCompileInputs.cache
+C:\Users\Kummiliim\source\repos\hello_world\random number\obj\Debug\random number.exe
+C:\Users\Kummiliim\source\repos\hello_world\random number\obj\Debug\random number.pdb
