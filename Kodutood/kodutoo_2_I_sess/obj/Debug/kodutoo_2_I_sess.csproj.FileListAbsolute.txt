@@ -1,0 +1,7 @@
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\bin\Debug\kodutoo_2_I_sess.exe.config
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\bin\Debug\kodutoo_2_I_sess.exe
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\bin\Debug\kodutoo_2_I_sess.pdb
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\obj\Debug\kodutoo_2_I_sess.csproj.CoreCompileInputs.cache
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\obj\Debug\kodutoo_2_I_sess.exe
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\obj\Debug\kodutoo_2_I_sess.pdb
+C:\Users\Kummiliim\Documents\src\Exercises\kodutoo_2_I_sess\obj\Debug\kodutoo_2_I_sess.csprojResolveAssemblyReference.cache
