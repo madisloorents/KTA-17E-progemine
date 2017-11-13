@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6by6_korrutamine", "6by6_korrutamine\6by6_korrutamine.csproj", "{7D99BE9D-2C91-46ED-ACA9-E40524B173F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "research-arrays", "research-arrays\research-arrays.csproj", "{85582C16-5F82-4C98-B68D-474F1335CF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vabanduste_genereerija", "vabanduste_genereerija\vabanduste_genereerija.csproj", "{D831ABFA-1F08-4562-A94B-598D2099FEC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7D99BE9D-2C91-46ED-ACA9-E40524B173F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D99BE9D-2C91-46ED-ACA9-E40524B173F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D99BE9D-2C91-46ED-ACA9-E40524B173F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85582C16-5F82-4C98-B68D-474F1335CF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85582C16-5F82-4C98-B68D-474F1335CF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85582C16-5F82-4C98-B68D-474F1335CF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85582C16-5F82-4C98-B68D-474F1335CF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D831ABFA-1F08-4562-A94B-598D2099FEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D831ABFA-1F08-4562-A94B-598D2099FEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D831ABFA-1F08-4562-A94B-598D2099FEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D831ABFA-1F08-4562-A94B-598D2099FEC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
