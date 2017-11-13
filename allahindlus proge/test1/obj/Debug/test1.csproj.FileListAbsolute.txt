@@ -1,0 +1,5 @@
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\test1\bin\Debug\test1.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\test1\bin\Debug\test1.exe
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\test1\bin\Debug\test1.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\test1\obj\Debug\test1.exe
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\test1\obj\Debug\test1.pdb

@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\bin\Debug\allahindlus proge.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\bin\Debug\allahindlus proge.exe
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\bin\Debug\allahindlus proge.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\obj\Debug\allahindlus proge.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\obj\Debug\allahindlus proge.exe
+c:\users\opilane\documents\visual studio 2017\Projects\allahindlus proge\allahindlus proge\obj\Debug\allahindlus proge.pdb
