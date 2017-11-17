@@ -10,6 +10,8 @@ namespace Printimistest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("A kus ma olen?");
+            Console.WriteLine("\nPress any key to continue!");
         }
     }
 }
