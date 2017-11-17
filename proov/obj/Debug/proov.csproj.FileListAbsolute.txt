@@ -1,6 +1,0 @@
-C:\Users\Kummiliim\source\repos\hello_world\proov\bin\Debug\proov.exe.config
-C:\Users\Kummiliim\source\repos\hello_world\proov\bin\Debug\proov.exe
-C:\Users\Kummiliim\source\repos\hello_world\proov\bin\Debug\proov.pdb
-C:\Users\Kummiliim\source\repos\hello_world\proov\obj\Debug\proov.csproj.CoreCompileInputs.cache
-C:\Users\Kummiliim\source\repos\hello_world\proov\obj\Debug\proov.exe
-C:\Users\Kummiliim\source\repos\hello_world\proov\obj\Debug\proov.pdb
