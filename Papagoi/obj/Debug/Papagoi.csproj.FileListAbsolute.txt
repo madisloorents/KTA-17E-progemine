@@ -1,7 +1,0 @@
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\bin\Debug\Papagoi.exe.config
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\bin\Debug\Papagoi.exe
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\bin\Debug\Papagoi.pdb
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\obj\Debug\Papagoi.csprojResolveAssemblyReference.cache
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\obj\Debug\Papagoi.csproj.CoreCompileInputs.cache
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\obj\Debug\Papagoi.exe
-C:\Users\opilane\Desktop\Programmid\src\19.10.2017 - 1\Exercises\Papagoi\obj\Debug\Papagoi.pdb
