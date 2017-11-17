@@ -20,16 +20,13 @@ namespace Tunnikontroll
             Decimal hind1 = Convert.ToDecimal(Console.ReadLine());
 
             
-
             Decimal hindtotal = 0;
                         
             while (hind1 != -1)
             {
                 Console.Write("Enter Price of food [-1 to quit]: ");
                 Decimal hind2 = Convert.ToDecimal(Console.ReadLine());
-
                 
-
                 if (hind2 == -1)
                 {                                                            
                     break;
