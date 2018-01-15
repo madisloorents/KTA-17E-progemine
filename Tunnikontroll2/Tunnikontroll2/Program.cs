@@ -28,10 +28,11 @@ namespace Tunnikontroll2
                 {
                     break;
                 }
-                kuu.Remove("stop");
+                
             }
-
+            kuu.Remove("stop");
             
+
             string[] kuukoos = kuu.ToArray();
 
             var kuukoos2 = string.Join(", ", kuukoos);
