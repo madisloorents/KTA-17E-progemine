@@ -18,9 +18,10 @@ namespace Hangman
             
 
             string[] sonad = {"R A K U L K A", "S A V I S A A R", "S A L E B U S", "K A I K R A I D E R", "N A K S T I", "H O P S T I" };
-
-            
+                        
             int random_vastussona = new Random().Next(0, sonad.Length);
+
+
 
             Console.WriteLine();            
             Console.WriteLine(sonad[random_vastussona]);
