@@ -14,8 +14,7 @@ namespace Tunnikontroll2
             Console.WriteLine();
                         
             List<string> kuu = new List<string>();
-
-            Console.WriteLine();
+                      
             
             while (true)
             {
