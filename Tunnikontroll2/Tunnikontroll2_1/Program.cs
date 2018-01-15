@@ -22,13 +22,9 @@ namespace Tunnikontroll2_1
 
                 if (kuunimi == "-1") break;
                 
-
                 kuunimed.Add(kuunimi);
-
             }
-
-            
-
+                      
             Console.WriteLine();
             Console.Write($"Sisestasid järgmised kuunimed: {string.Join(", ", kuunimed)}");
             Console.WriteLine();
