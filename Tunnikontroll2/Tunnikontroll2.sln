@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tunnikontroll2", "Tunnikontroll2\Tunnikontroll2.csproj", "{33C509B4-9A6F-4A88-ADD3-725E77FAA54E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tunnikontroll2_1", "Tunnikontroll2_1\Tunnikontroll2_1.csproj", "{CEEB0270-86F5-4081-9017-90055CCA801B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{33C509B4-9A6F-4A88-ADD3-725E77FAA54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C509B4-9A6F-4A88-ADD3-725E77FAA54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C509B4-9A6F-4A88-ADD3-725E77FAA54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEB0270-86F5-4081-9017-90055CCA801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEB0270-86F5-4081-9017-90055CCA801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEB0270-86F5-4081-9017-90055CCA801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEB0270-86F5-4081-9017-90055CCA801B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

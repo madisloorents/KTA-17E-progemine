@@ -18,8 +18,7 @@ namespace Tunnikontroll2
             
             while (true)
             {
-
-
+                
                 Console.Write("Sisesta kuu nimetus: ");
                 string kuunimi = Console.ReadLine();
                 kuu.Add(kuunimi);
