@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85582C16-5F82-4C98-B68D-474F1335CF28}</ProjectGuid>
+    <ProjectGuid>{68DF61A0-07E8-40E7-B722-19807AC13008}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>research_arrays</RootNamespace>
-    <AssemblyName>research-arrays</AssemblyName>
+    <RootNamespace>Printimistest</RootNamespace>
+    <AssemblyName>Printimistest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
