@@ -17,15 +17,15 @@ namespace scramble
 
 
 
-            string eemaldus = word.Substring(1, word.Length - 1);
+            string eemaldus = word.Substring(1, word.Length - 2);
                         
             string scrambled_word = ScrambleWord(eemaldus);
 
             string viimanetaht = word.Substring(word.Length - 1);
             
-            string esimenetaht = word.Substring(0, 1);
+            string esimenetaht = word.Substring(0,1);
 
-            Console.WriteLine(esimenetaht + scrambled_word + viimanetaht);
+            Console.WriteLine(scrambled_word);
             Console.ReadLine();
         }
         static string ScrambleWord(string word)

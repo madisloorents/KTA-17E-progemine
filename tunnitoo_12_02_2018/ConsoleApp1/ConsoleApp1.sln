@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scramble", "scramble\scramb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lause shuffle", "lause shuffle\lause shuffle.csproj", "{9B1C3C81-1CE7-4A43-8092-AC308001EC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tahtede_vahetamine_lauses", "tahtede_vahetamine_lauses\tahtede_vahetamine_lauses.csproj", "{11A559B2-CF5F-4995-A747-175E86919B86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B1C3C81-1CE7-4A43-8092-AC308001EC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B1C3C81-1CE7-4A43-8092-AC308001EC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1C3C81-1CE7-4A43-8092-AC308001EC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A559B2-CF5F-4995-A747-175E86919B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A559B2-CF5F-4995-A747-175E86919B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A559B2-CF5F-4995-A747-175E86919B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A559B2-CF5F-4995-A747-175E86919B86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
